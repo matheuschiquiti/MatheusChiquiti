@@ -9,6 +9,7 @@ Sobre mim:
 - 📊 Interesse em projetos onde dados impulsionam decisões estratégicas
 - 🛠️ Conhecimento em SQL, Power BI, Python e metodologias ágeis
 
+<br>
 
 ## 
 
